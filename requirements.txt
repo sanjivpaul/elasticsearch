@@ -2,3 +2,4 @@ elasticsearch==8.15.1
 tqdm==4.67.1
 sentence-transformers==5.1.2
 matplotlib==3.10.7
+psutil==7.1.3
